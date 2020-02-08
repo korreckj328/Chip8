@@ -1,0 +1,3 @@
+[submodule "stack-jdk"]
+	path = stack-jdk
+	url = https://github.com/korreckj328/stack-jdk.git
