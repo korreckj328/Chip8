@@ -1,3 +1,6 @@
 [submodule "stack-jdk"]
 	path = stack-jdk
 	url = https://github.com/korreckj328/stack-jdk.git
+[submodule "cmake/sdl2"]
+	path = cmake/sdl2
+	url = https://github.com/korreckj328/sdl2-cmake-modules.git
